@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394ddc58c59e845669038f69318b0990, type: 3}
+  m_Name: Card_99
+  m_EditorClassIdentifier: 
+  cardName: "\u30DF\u30FC\u30C6\u30A3"
+  hp: 1
+  atk: 0
+  cost: 0
+  icon: {fileID: 21300000, guid: d68f8b87491c44bf9901cffbae963f5d, type: 3}
+  flavor: "\u7834\u58CA\u4E0D\u80FD\u3000\u88AB\u7834\u58CA\u6642:\u81EA\u8EAB\u306E\u624B\u672D\u306B\u300C\u30DF\u30FC\u30C6\u30A3\u300D\u3092\u8FFD\u52A0\u3059\u308B\u3002"
+  cardType: 0
+  legendCard: 0
+  canAttackCount: 1
+  initAttacakble: 0
+  shield: 0
+  cip: 0
+  destruction: 1
+  deathTouch: 0
+  indestructible: 1
+  penetration: 0
+  lifeLink: 0
+  skulk: 0
+  regenerate: 0
+  notAttackPlayer: 0
+  notAttackCard: 0

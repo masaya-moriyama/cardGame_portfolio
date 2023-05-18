@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394ddc58c59e845669038f69318b0990, type: 3}
+  m_Name: Card_1
+  m_EditorClassIdentifier: 
+  cardName: "\u306F\u308B\u3055\u3081"
+  hp: 1
+  atk: 1
+  cost: 1
+  icon: {fileID: 21300000, guid: 291729ba3a5574226b4d0cfdfb89b8c8, type: 3}
+  flavor: "\u901F\u653B"
+  cardType: 0
+  initAttacakble: 1
+  shield: 0
+  cip: 0
+  deathTouch: 0
+  indestructible: 0

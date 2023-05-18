@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394ddc58c59e845669038f69318b0990, type: 3}
+  m_Name: Card_22
+  m_EditorClassIdentifier: 
+  cardName: "\u81EA\u7206"
+  hp: 0
+  atk: 0
+  cost: 0
+  icon: {fileID: 21300000, guid: 91e762d12c9874cee8d80054dabeab5b, type: 3}
+  flavor: "\u30DE\u30CA\u5168\u6D88\u8CBB\u3001\u5834\u306E\u5168\u3066\u306E\u30AB\u30FC\u30C9\u306B\u6D88\u8CBB\u3057\u305F\u6570\u30C0\u30E1\u30FC\u30B8"
+  cardType: 1
+  initAttacakble: 0
+  shield: 0
+  cip: 0
+  deathTouch: 0
+  indestructible: 0

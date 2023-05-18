@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 394ddc58c59e845669038f69318b0990, type: 3}
+  m_Name: Card_45
+  m_EditorClassIdentifier: 
+  cardName: "\u30B5\u30A4\u30DC\u30FC\u30B0\u5FCD\u8005"
+  hp: 3
+  atk: 3
+  cost: 4
+  icon: {fileID: 21300000, guid: b5c6bac88771847d898e9d0befb49f4c, type: 3}
+  flavor: "\u63A5\u6B7B \u88AB\u7834\u58CA\u6642:\u76F8\u624B\u306E\u5834\u306E\u30B3\u30B9\u30C8\u304C\u4E00\u756A\u9AD8\u3044\u30AB\u30FC\u30C91\u679A\u3092\u7834\u58CA\u3059\u308B"
+  cardType: 0
+  canAttackCount: 1
+  initAttacakble: 0
+  shield: 0
+  cip: 0
+  destruction: 1
+  deathTouch: 1
+  indestructible: 0
+  penetration: 0
+  lifeLink: 0
+  skulk: 0
+  regenerate: 0
+  notAttackPlayer: 0
+  notAttackCard: 0
